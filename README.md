@@ -1,0 +1,2 @@
+# phsics
+physics in haskell
