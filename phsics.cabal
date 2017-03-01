@@ -3,7 +3,7 @@ version:             0.1.0.0
 -- synopsis:
 -- description:
 homepage:            https://github.com/vektordev/phsics
-license:             GPL3
+license:             GPL-3
 license-file:        LICENSE
 author:              vpfanschilling@gmail.com
 maintainer:          vpfanschilling@gmail.com
